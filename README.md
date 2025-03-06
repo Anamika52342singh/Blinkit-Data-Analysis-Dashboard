@@ -41,9 +41,9 @@ experience.
 ## Project Components
 ### Overview Page:
 1. Total Deliveries Over Time (Line Chart)
-Data Shown:
+-Data Shown:
 -Displays the trend of total deliveries made over a specific period (daily, weekly, or monthly).
-Business Implication:
+-Business Implication:
 - This chart helps identify peak and off-peak periods, enabling businesses to allocate resources effectively during high-demand times and optimize costs during slow periods.
 - Businesses can use this data to plan marketing campaigns and promotions around high-traffic days.
 
