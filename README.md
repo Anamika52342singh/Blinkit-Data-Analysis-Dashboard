@@ -12,7 +12,13 @@ Managing and analyzing a large volume of data related to orders, inventory, deli
 <br>
  <a href="https://drive.google.com/drive/folders/1jxsJ9g_41sBfTbZdwlQ_KhIGiQA1SMkq?usp=drive_link">Dataset(CSV)<a/>
 
-
+## Goals:
+1. Develop a comprehensive dashboard to consolidate and visualize key performance indicators (KPIs) such as:
+O Number of daily/weekly/monthly orders.
+O Delivery time trends and bottlenecks.
+O Inventory status and restocking requirements.
+о Customer satisfaction ratings and feedback analysis.
+ Revenue and profit margins.
 
 
 
