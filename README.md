@@ -20,7 +20,14 @@ Managing and analyzing a large volume of data related to orders, inventory, deli
 - Customer satisfaction ratings and feedback analysis.
 - Revenue and profit margins.
 
-2. 
+2. Enable real-time updates and dynamic filtering for interactive data exploration.
+3. Provide actionable insights to improve operational efficiency and customer
+experience.
+
+## Target Audience:
+- Business stakeholders looking for high-level summaries of performance.
+- Operations managers requiring granular data for process optimization.
+- Data analysts and engineers exploring the backend data for advanced insights
 
 
 
