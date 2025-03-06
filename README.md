@@ -38,9 +38,10 @@ experience.
 <a href="https://drive.google.com/file/d/1evtp4dLsFZI4Xrsqb9JKruDcMrgOBMmr/view?usp=sharing">View Dashboard <a/>
 
 
-## Project Components
+## Project Components:
 ### Overview Page:
 1. Total Deliveries Over Time (Line Chart)
+<br>
 -Data Shown: Displays the trend of total deliveries made over a specific period (daily, weekly, or monthly).
 
 
