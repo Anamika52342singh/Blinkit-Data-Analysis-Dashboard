@@ -29,5 +29,12 @@ experience.
 - Operations managers requiring granular data for process optimization.
 - Data analysts and engineers exploring the backend data for advanced insights
 
+## Key Features:
+1. Intuitive charts and graphs (e.g., bar charts, line graphs, and pie charts) for quick understanding.
+2. Drill-down capabilities for detailed data exploration.
+3. Filters to segment data by time periods, regions, or product categories.
+
+## Dashboard Interaction 
+
 
 
