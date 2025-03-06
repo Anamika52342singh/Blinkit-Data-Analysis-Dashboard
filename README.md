@@ -42,6 +42,8 @@ experience.
 ### Overview Page:
 1. Total Deliveries Over Time (Line Chart) <br>
 -Data Shown: Displays the trend of total deliveries made over a specific period (daily, weekly, or monthly).
+2. Delivery Completion Rate (Donut Chart)<br>
+-Data Shown: The proportion of successful deliveries versus failed or delayed ones.
 
 
 
