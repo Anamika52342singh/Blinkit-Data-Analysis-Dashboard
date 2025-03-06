@@ -55,6 +55,30 @@ experience.
 3. Customer Feedback Trends (Word Cloud or Sentiment Analysis)<br>
 -Data Shown: Common keywords or phrases from customer reviews, categorized as positive, neutral, or negative sentiment.
 
+### Marketing Page
+1. Campaign ROI Analysis (Bar or Funnel Chart)<br>
+-Data Shown: ROI of various marketing campaigns, comparing investment and resulting revenue.
+2. Customer Acquisition by Channel (Pie Chart)<br>
+-Data Shown: Percentage of new customers acquired through different channels (social media, email, referral, etc.).
+3. Marketing Spend by Region (Stacked Bar Chart)<br>
+-Data Shown: Marketing budget allocation across different regions.
+
+### Inventory Page
+1. Stock Levels by Product Category (Bar Chart)<br>
+-Data Shown: Current stock availability across different product categories.
+2. Inventory Turnover Ratio (KPI Card)<br>
+-Data Shown: Measures how efficiently inventory is being sold and replaced over time.
+3. Low Stock Alerts (Heatmap or Table)<br>
+-Data Shown: Identifies products that are nearing stock depletion levels.
+
+### Sales Overview Page
+1. Revenue by Product Category (Column Chart)<br>
+-Data Shown: Total revenue generated from each product category over a defined period.
+2. Monthly Sales Trends (Line Chart)<br>
+-Data Shown: Tracks sales performance over time, highlighting growth or decline in revenue.
+3. Average Order Value (KPI Card)<br>
+-Data Shown: The average revenue generated per order.
+
 
 
 
