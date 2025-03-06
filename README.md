@@ -44,6 +44,16 @@ experience.
 -Data Shown: Displays the trend of total deliveries made over a specific period (daily, weekly, or monthly).
 2. Delivery Completion Rate (Donut Chart)<br>
 -Data Shown: The proportion of successful deliveries versus failed or delayed ones.
+3. Revenue Contribution by Regions (Bar Chart)<br>
+-Data Shown: Revenue split across different geographical areas or cities.
+
+### Customer Page:
+1. Customer Retention Rate (Gauge Chart)<br>
+-Data Shown: The percentage of customers who place repeat orders within a defined time frame.
+2. Top Customers by Revenue (Table)<br>
+-Data Shown: A ranked list of customers who generate the highest revenue.
+3. Customer Feedback Trends (Word Cloud or Sentiment Analysis)<br>
+-Data Shown: Common keywords or phrases from customer reviews, categorized as positive, neutral, or negative sentiment.
 
 
 
